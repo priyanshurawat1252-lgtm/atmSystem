@@ -1,4 +1,5 @@
+
 build/
 .qtcreator/
-*.user
-*.user.*
+*.pro.user
+*.stash
